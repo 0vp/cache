@@ -1,0 +1,822 @@
+ [
+    {
+        "chinese": "不可得兼",
+        "pingyin": "bù kě dé jiān",
+        "definition": "you can’t have both at the same time"
+    },
+    {
+        "chinese": "不得其法",
+        "pingyin": "bù dé qí fǎ",
+        "definition": " \"not knowing the right way\""
+    },
+    {
+        "chinese": "心神不宁",
+        "pingyin": "xīn shén bù níng",
+        "definition": " \"to feel bad about nothing\" "
+    },
+    {
+        "chinese": "一本正经",
+        "pingyin": "yī běn zhèng jīng",
+        "definition": "to always be serious"
+    },
+    {
+        "chinese": "沉鱼落雁",
+        "pingyin": "chén yú luò yàn",
+        "definition": "extremely beautiful"
+    },
+    {
+        "chinese": "独一无二",
+        "pingyin": "dú yī wú’èr",
+        "definition": "unique"
+    },
+    {
+        "chinese": "数一数二",
+        "pingyin": "shǔ yī shǔ’èr",
+        "definition": "the best; considered among the best"
+    },
+    {
+        "chinese": "绝无仅有",
+        "pingyin": "jué wú jǐn yǒu",
+        "definition": "one of a kind; unique"
+    },
+    {
+        "chinese": "损人利己",
+        "pingyin": "sǔn rén lì jǐ",
+        "definition": "to seek benefit at the expense of others"
+    },
+    {
+        "chinese": "幸灾乐祸",
+        "pingyin": "xìng zāi lè huò",
+        "definition": "to enjoy others’ misfortunes"
+    },
+    {
+        "chinese": "力不从心",
+        "pingyin": "Lì bù cóng xīn",
+        "definition": "the qualities aren’t at the level of the aspirations"
+    },
+    {
+        "chinese": "亦步亦趋",
+        "pingyin": "yì bù yì qū",
+        "definition": "to blindly imitate someone"
+    },
+    {
+        "chinese": "滔滔不绝",
+        "pingyin": "tāo tāo bù jué",
+        "definition": "without interruption"
+    },
+    {
+        "chinese": "桃李满天下",
+        "pingyin": "táolǐ mǎn tiān xià",
+        "definition": "to have pupils everywhere"
+    },
+    {
+        "chinese": "省吃俭用",
+        "pingyin": "shěng chī jiǎn yòng",
+        "definition": "to live frugally"
+    },
+    {
+        "chinese": "婀娜多姿",
+        "pingyin": "ē nuó duō zī",
+        "definition": "to be graceful"
+    },
+    {
+        "chinese": "应运而生",
+        "pingyin": "yìngyùn’érshēng",
+        "definition": "to emerge thanks to a favorable situation"
+    },
+    {
+        "chinese": "厮守终生",
+        "pingyin": "sīshǒu zhōngshēng",
+        "definition": "to be together forever"
+    },
+    {
+        "chinese": "寓意深远",
+        "pingyin": "yùyì shēnyuǎn",
+        "definition": "morale is very low"
+    },
+    {
+        "chinese": "一切就绪",
+        "pingyin": "yīqièjiùxù",
+        "definition": "everything is in order"
+    },
+    {
+        "chinese": "囫囵吞枣",
+        "pingyin": "hú lún tūn zǎo",
+        "definition": "to swallow information without assimilating it"
+    },
+    {
+        "chinese": "塞翁失马",
+        "pingyin": "sài wēng shī mǎ, yān zhī fēi fú",
+        "definition": "not all bad comes to cause harm"
+    },
+    {
+        "chinese": "狼吞虎咽",
+        "pingyin": "láng tūn hǔ yàn",
+        "definition": "to brush away food like a wolf"
+    },
+    {
+        "chinese": "避而不见",
+        "pingyin": "bì’ér bù jiàn",
+        "definition": "to avoid meeting someone"
+    },
+    {
+        "chinese": "成千上万",
+        "pingyin": "chéng qiān shàng wàn",
+        "definition": "thousands"
+    },
+    {
+        "chinese": "依依不舍",
+        "pingyin": "yī yī bù shě",
+        "definition": "to be reluctant to leave something"
+    },
+    {
+        "chinese": "如期而至",
+        "pingyin": "rú qī ér zhì",
+        "definition": "to arrive in time"
+    },
+    {
+        "chinese": "自作聪明",
+        "pingyin": "zì zuò cōngmíng",
+        "definition": "to be presumptuous"
+    },
+    {
+        "chinese": "废寝忘食f",
+        "pingyin": "èi qǐn wàng shí",
+        "definition": "forgetting to eat and sleep so as to do something"
+    },
+    {
+        "chinese": "一门心思",
+        "pingyin": "yī mén xīn si",
+        "definition": "to be solely concentrated on doing something"
+    },
+    {
+        "chinese": "深情厚谊",
+        "pingyin": "shēn qíng hòu yì",
+        "definition": "long and intimate friendship"
+    },
+    {
+        "chinese": "死里逃生",
+        "pingyin": "sǐ lǐ táo shēng",
+        "definition": "to find a way out of certain death"
+    },
+    {
+        "chinese": "铺天盖地",
+        "pingyin": "pū tiān gài dì",
+        "definition": "to cover over everything"
+    },
+    {
+        "chinese": "与众不同",
+        "pingyin": "yǔ zhòng bù tóng",
+        "definition": "different than the crowd"
+    },
+    {
+        "chinese": "心甘情愿",
+        "pingyin": "xīn gān qíng yuàn",
+        "definition": "to be extremely happy to do something"
+    },
+    {
+        "chinese": "无可奈何",
+        "pingyin": "wú kě nài hé non\"",
+        "definition": "to have alternatives"
+    },
+    {
+        "chinese": "眼见为实",
+        "pingyin": "yǎn jiàn wéi shí",
+        "definition": "to believe in what can be seen"
+    },
+    {
+        "chinese": "耳听为虚",
+        "pingyin": "ěr tīng wèi xū",
+        "definition": "to not believe in what you hear"
+    },
+    {
+        "chinese": "十全十美",
+        "pingyin": "shí quán shí měi",
+        "definition": "perfect"
+    },
+    {
+        "chinese": "星火燎原",
+        "pingyin": "xīng huǒ liáo yuán",
+        "definition": "a single spark creates a blaze"
+    },
+    {
+        "chinese": "夸大其词",
+        "pingyin": "kuā dà qí cí",
+        "definition": "exaggerate"
+    },
+    {
+        "chinese": "举目无亲",
+        "pingyin": "jǔ mù wú qīn",
+        "definition": "to be a stranger in a strange land"
+    },
+    {
+        "chinese": "四海为家",
+        "pingyin": "sì hǎi wéi jiā",
+        "definition": "to make every place your home; live as a hobo"
+    },
+    {
+        "chinese": "小心翼翼",
+        "pingyin": "xiǎo xīn yì yì",
+        "definition": "extremely cautious"
+    },
+    {
+        "chinese": "焕然一新",
+        "pingyin": "huàn rán yī xīn",
+        "definition": "to take on a completely new appearance"
+    },
+    {
+        "chinese": "乱七八糟",
+        "pingyin": "luàn qī bā zāo",
+        "definition": "in complete disorder"
+    },
+    {
+        "chinese": "不自觉地",
+        "pingyin": "bù zìjué de",
+        "definition": "unconsciously"
+    },
+    {
+        "chinese": "筋疲力尽",
+        "pingyin": "jīn pí lì jìn",
+        "definition": "to feel exhausted"
+    },
+    {
+        "chinese": "顺其自然",
+        "pingyin": "shùn qí zì rán",
+        "definition": "to let nature take its course"
+    },
+    {
+        "chinese": "恋恋不舍",
+        "pingyin": "liàn liàn bù shě",
+        "definition": "to be reluctant to leave"
+    },
+    {
+        "chinese": "擦肩而过",
+        "pingyin": "cā jiān’ér guò",
+        "definition": "to brush up against someone in passing"
+    },
+    {
+        "chinese": "迫不及待",
+        "pingyin": "pò bù jí dài",
+        "definition": "impatiently waiting"
+    },
+    {
+        "chinese": "无所不谈",
+        "pingyin": "wú suǒ bù tán",
+        "definition": "to talk about everything under the sun"
+    },
+    {
+        "chinese": "不谋而合",
+        "pingyin": "bù móu’ér hé",
+        "definition": "to agree without discussion"
+    },
+    {
+        "chinese": "不以为然",
+        "pingyin": "bù yǐ wéi rán",
+        "definition": "to consider something unacceptable"
+    },
+    {
+        "chinese": "我行我素",
+        "pingyin": "wǒ xíng wǒ sù",
+        "definition": "to stick to your own way of doing things"
+    },
+    {
+        "chinese": "栩栩如生",
+        "pingyin": "xǔ xǔ rú shēng",
+        "definition": "as vivid as life"
+    },
+    {
+        "chinese": "莞尔一笑",
+        "pingyin": "wǎn’ěr yī xiào",
+        "definition": "to give a faint smile"
+    },
+    {
+        "chinese": "胡说八道",
+        "pingyin": "hú shuō bā dào",
+        "definition": "to talk nonsense"
+    },
+    {
+        "chinese": "眉飞色舞",
+        "pingyin": "méi fēi sè wǔ",
+        "definition": "to be exultant, exuberant"
+    },
+    {
+        "chinese": "漫无目的",
+        "pingyin": "màn wú mùdì",
+        "definition": "to be without a goal"
+    },
+    {
+        "chinese": "左顾右盼",
+        "pingyin": "zuǒ gù yòu pàn",
+        "definition": "to look to the left and right"
+    },
+    {
+        "chinese": "一针见血",
+        "pingyin": "yī zhēn jiàn xiě",
+        "definition": "to hit the mark"
+    },
+    {
+        "chinese": "轻而易举",
+        "pingyin": "qīng’ér yì jǔ",
+        "definition": "easy to do"
+    },
+    {
+        "chinese": "全心全意",
+        "pingyin": "quán xīn quán yì",
+        "definition": "to do something with all your heart"
+    },
+    {
+        "chinese": "相去甚远",
+        "pingyin": "xiāng qù shènyuǎn",
+        "definition": "to make a big difference"
+    },
+    {
+        "chinese": "彬彬有礼",
+        "pingyin": "bīn bīn yǒu lǐ",
+        "definition": "sophisticated"
+    },
+    {
+        "chinese": "称兄道弟",
+        "pingyin": "chēng xiōng dào dì",
+        "definition": "to be like brothers with someone; to have a great relationship"
+    },
+    {
+        "chinese": "相提并论",
+        "pingyin": "xiāng tí bìng lùn",
+        "definition": "to be placed at the same level of"
+    },
+    {
+        "chinese": "惟妙惟肖",
+        "pingyin": "wéi miào wéi xiào",
+        "definition": "to be just like the real thing"
+    },
+    {
+        "chinese": "忙里偷闲",
+        "pingyin": "máng lǐ tōu xián",
+        "definition": "to find time for pleasure between work"
+    },
+    {
+        "chinese": "全神贯注",
+        "pingyin": "quán shén guàn zhù",
+        "definition": "absorbed, absorbed in"
+    },
+    {
+        "chinese": "缘木求鱼",
+        "pingyin": "yuán mù qiú yú",
+        "definition": "to use counterproductive methods to do something"
+    },
+    {
+        "chinese": "见钱眼开",
+        "pingyin": "jiàn qián yǎn kāi",
+        "definition": "to be desirous of money"
+    },
+    {
+        "chinese": "见利忘义",
+        "pingyin": "jiàn lì wàng yì",
+        "definition": "to forget integrity so as to achieve gain"
+    },
+    {
+        "chinese": "下不为例",
+        "pingyin": "xià bù wéi lì",
+        "definition": "it will not set a precedent"
+    },
+    {
+        "chinese": "可想而知",
+        "pingyin": "kě xiǎng’ér zhī",
+        "definition": "as you can well imagine"
+    },
+    {
+        "chinese": "不翼而飞",
+        "pingyin": "bù yì’ér fēi",
+        "definition": "to suddenly disappear"
+    },
+    {
+        "chinese": "惊慌失措",
+        "pingyin": "jīng huāng shī cuò",
+        "definition": "caught in panic"
+    },
+    {
+        "chinese": "龇牙咧嘴",
+        "pingyin": "zī yá liě zuǐ",
+        "definition": "to grit your teeth in pain"
+    },
+    {
+        "chinese": "火上加油",
+        "pingyin": "huǒ shàng jiā yóu",
+        "definition": "to throw fuel on the fire"
+    },
+    {
+        "chinese": "雪上加霜",
+        "pingyin": "xuě shàng jiā shuāng",
+        "definition": "one disaster after another"
+    },
+    {
+        "chinese": "如愿以偿",
+        "pingyin": "rú yuàn yǐ cháng",
+        "definition": "fully satisfied desires"
+    },
+    {
+        "chinese": "无理取闹",
+        "pingyin": "wú lǐ qǔ nào",
+        "definition": "to create problems for no reason"
+    },
+    {
+        "chinese": "对牛弹琴",
+        "pingyin": "duì niú tán qín",
+        "definition": "to speak about someone"
+    },
+    {
+        "chinese": "理直气壮",
+        "pingyin": "lǐ zhí qì zhuàng",
+        "definition": "to do something while knowing you’re in the right"
+    },
+    {
+        "chinese": "思前想后",
+        "pingyin": "sī qián xiǎng hòu",
+        "definition": "to accurately ponder over something"
+    },
+    {
+        "chinese": "如释重负",
+        "pingyin": "rú shì zhòng fù",
+        "definition": "to feel freed of a great burden"
+    },
+    {
+        "chinese": "不可开交",
+        "pingyin": "bù kě kāi jiāo",
+        "definition": "extremely,busy)\""
+    },
+    {
+        "chinese": "重温旧梦",
+        "pingyin": "chóng wēn jiù mèng",
+        "definition": "to relive an old experience; relive an old dream"
+    },
+    {
+        "chinese": "兴致勃勃",
+        "pingyin": "xìng zhì bó bó",
+        "definition": "full of enthusiasm"
+    },
+    {
+        "chinese": "如影随形",
+        "pingyin": "rú yǐng suí xíng",
+        "definition": "inseparable; followed like your own shadow"
+    },
+    {
+        "chinese": "千言万语",
+        "pingyin": "qiān yán wàn yǔ",
+        "definition": "thousands and thousands of words"
+    },
+    {
+        "chinese": "惴惴不安",
+        "pingyin": "zhuì zhuì bù’ān",
+        "definition": "on thorns"
+    },
+    {
+        "chinese": "大惊小怪",
+        "pingyin": "dà jīng xiǎo guài",
+        "definition": "great fuss over something ordinary; to complain unjustifiably"
+    },
+    {
+        "chinese": "不足挂齿",
+        "pingyin": "bù zú guà chǐ",
+        "definition": "nothing to talk about"
+    },
+    {
+        "chinese": "天涯海角",
+        "pingyin": "tiān yá hǎi jiǎo",
+        "definition": "far off worlds,expressing a very large distance)"
+    },
+    {
+        "chinese": "垂垂老矣",
+        "pingyin": "chuí chuí lǎo yǐ",
+        "definition": "always older"
+    },
+    {
+        "chinese": "白发苍苍",
+        "pingyin": "bái fa cāng cāng",
+        "definition": "from white hairs"
+    },
+    {
+        "chinese": "低三下四",
+        "pingyin": "dī sān xià sì",
+        "definition": "mean, petty"
+    },
+    {
+        "chinese": "安贫乐道",
+        "pingyin": "ān pín lè dào",
+        "definition": "happy to live a virtuous life even if in a state of poverty"
+    },
+    {
+        "chinese": "光明磊落",
+        "pingyin": "guāng míng lěi luò",
+        "definition": "in broad daylight; cards showing; correctly and legitimately"
+    },
+    {
+        "chinese": "知足常乐",
+        "pingyin": "zhī zú cháng lè",
+        "definition": "to be content with what you have"
+    },
+    {
+        "chinese": "东山再起",
+        "pingyin": "dōng shān zài qǐ",
+        "definition": "to stage a return"
+    },
+    {
+        "chinese": "完璧归赵",
+        "pingyin": "wán bì guī zhào",
+        "definition": "to give something back to its owner in excellent condition"
+    },
+    {
+        "chinese": "如虎添翼",
+        "pingyin": "rú hǔ tiān yì",
+        "definition": "with double the power"
+    },
+    {
+        "chinese": "夜深人静",
+        "pingyin": "yè shēn rén jìng",
+        "definition": "in the silence of deepest night"
+    },
+    {
+        "chinese": "班门弄斧",
+        "pingyin": "bān mén nòng fǔ",
+        "definition": "to show your talent is of little account in front of a true expert on the material"
+    },
+    {
+        "chinese": "乘风破浪",
+        "pingyin": "chéng fēng pò làng",
+        "definition": "to have great ambitions"
+    },
+    {
+        "chinese": "程门立雪",
+        "pingyin": "chéng mén lì xuě",
+        "definition": "to honor the master and respect his teachings"
+    },
+    {
+        "chinese": "狐假虎威",
+        "pingyin": "hú jiǎ hǔ wēi",
+        "definition": "to intimidate someone by flaunting your relationship with important people"
+    },
+    {
+        "chinese": "孟母三迁",
+        "pingyin": "mèng mǔ sān qiān",
+        "definition": "a wise mother works to find a healthy educational environment for her children"
+    },
+    {
+        "chinese": "愚公移山",
+        "pingyin": "yú gōng yí shān",
+        "definition": "to want to is to be able to"
+    },
+    {
+        "chinese": "画蛇添足",
+        "pingyin": "huà shé tiān zú",
+        "definition": "more than enough"
+    },
+    {
+        "chinese": "开卷有益",
+        "pingyin": "kāi juàn yǒu yì",
+        "definition": "reading always brings benefits"
+    },
+    {
+        "chinese": "世外桃源",
+        "pingyin": "shì wài táo yuán",
+        "definition": "paradise if peace; utopia"
+    },
+    {
+        "chinese": "津津有味",
+        "pingyin": "jīn jīn yǒu wèi",
+        "definition": "to do something with gusto"
+    },
+    {
+        "chinese": "落英缤纷",
+        "pingyin": "luò yīng bīn fēn",
+        "definition": "flower petals that fall like snowflakes"
+    },
+    {
+        "chinese": "虚怀若谷",
+        "pingyin": "xū huái ruò gǔ",
+        "definition": "to be extremely open-minded"
+    },
+    {
+        "chinese": "心如止水",
+        "pingyin": "xīn rú zhǐ shuǐ",
+        "definition": "a peaceful heart; a heart as calm as still water"
+    },
+    {
+        "chinese": "随遇而安",
+        "pingyin": "suí yù ér’ān",
+        "definition": "to feel adequate wherever you are"
+    },
+    {
+        "chinese": "厚德载物",
+        "pingyin": "hòu dé zài wù",
+        "definition": "to be of strong moral character"
+    },
+    {
+        "chinese": "大智若愚",
+        "pingyin": "dà zhì ruò yú",
+        "definition": "the wise one appears stupid"
+    },
+    {
+        "chinese": "知行合一",
+        "pingyin": "zhī xíng hé yī",
+        "definition": "the union of practice and knowledge"
+    },
+    {
+        "chinese": "相濡以沫",
+        "pingyin": "xiāng rú yǐ mò",
+        "definition": "to help each other out despite both being in delicate condition"
+    },
+    {
+        "chinese": "阳光明媚",
+        "pingyin": "yáng guāng míng mèi",
+        "definition": "the sun is particularly bright"
+    },
+    {
+        "chinese": "忐忑不安",
+        "pingyin": "tǎn tè bù’ān",
+        "definition": "disquieted; preoccupied; uncomfortable"
+    },
+    {
+        "chinese": "说三道四",
+        "pingyin": "shuō sān dào sì",
+        "definition": "to gossip"
+    },
+    {
+        "chinese": "不顾一切",
+        "pingyin": "bù gù yī qiè",
+        "definition": "indifferent to everything"
+    },
+    {
+        "chinese": "一日为师，终身为父",
+        "pingyin": "yī rì wèi shī, zhōngshēn wèi fù",
+        "definition": "teacher for a day, father for a lifetime"
+    },
+    {
+        "chinese": "不管三七二十一",
+        "pingyin": "bù guǎn sān qī èr shí yī",
+        "definition": "not caring about the consequences"
+    },
+    {
+        "chinese": "开门见山",
+        "pingyin": "kāi mén jiàn shān",
+        "definition": "to get right to the chase"
+    },
+    {
+        "chinese": "一蹴而就",
+        "pingyin": "yī cù’ér jiù",
+        "definition": "to be successful on the first try"
+    },
+    {
+        "chinese": "惹是生非",
+        "pingyin": "rě shì shēng fēi",
+        "definition": "to start a dispute; begin a conflict"
+    },
+    {
+        "chinese": "安居乐业",
+        "pingyin": "ān jū lè yè",
+        "definition": "to live in peace, without disturbance"
+    },
+    {
+        "chinese": "难兄难弟",
+        "pingyin": "nàn xiōng nàn dì",
+        "definition": "brothers of misfortune"
+    },
+    {
+        "chinese": "笑里藏刀",
+        "pingyin": "xiào lǐ cáng dāo",
+        "definition": "a dagger hidden behind a smile"
+    },
+    {
+        "chinese": "海市蜃楼",
+        "pingyin": "hǎi shì shèn lóu",
+        "definition": "to build castles in the air; mirage"
+    },
+    {
+        "chinese": "厮守终身",
+        "pingyin": "sīshǒu zhōngshēn",
+        "definition": "to be together for one’s whole life"
+    },
+    {
+        "chinese": "伶牙俐齿",
+        "pingyin": "líng yá lì chǐ",
+        "definition": "to be clear and eloquent"
+    },
+    {
+        "chinese": "日积月累",
+        "pingyin": "rì jī yuè lěi",
+        "definition": "to accumulate for a long time"
+    },
+    {
+        "chinese": "雷打不动",
+        "pingyin": "léi dǎ bù dòng",
+        "definition": "to be determined, unshakable"
+    },
+    {
+        "chinese": "家常便饭",
+        "pingyin": "jiā cháng biàn fàn",
+        "definition": "routine"
+    },
+    {
+        "chinese": "一头雾水",
+        "pingyin": "yī tóu wùshuǐ",
+        "definition": "to feel confused"
+    },
+    {
+        "chinese": "大汗淋漓",
+        "pingyin": "dà hàn lín lí",
+        "definition": "to be soaked with sweat"
+    },
+    {
+        "chinese": "有条不紊",
+        "pingyin": "yǒu tiáo bù wěn",
+        "definition": "methodical, systematic"
+    },
+    {
+        "chinese": "知难而退",
+        "pingyin": "zhī nán’ér tuì",
+        "definition": "to run from difficulty"
+    },
+    {
+        "chinese": "似懂非懂",
+        "pingyin": "sì dǒng fēi dǒng",
+        "definition": "to not fully understand"
+    },
+    {
+        "chinese": "怒不可遏",
+        "pingyin": "nù bù kě è",
+        "definition": "Unable to restrain one’s anger; in a towering rage"
+    },
+    {
+        "chinese": "怒气冲冲",
+        "pingyin": "nù qì chōng chōng",
+        "definition": "Spitting anger; in a rage"
+    },
+    {
+        "chinese": "恼羞成怒",
+        "pingyin": "nǎo xiū chéng nù",
+        "definition": "To fly into a rage out of humiliation"
+    },
+    {
+        "chinese": "敢怒而不敢言",
+        "pingyin": "gǎn nù ér bù gǎn yán",
+        "definition": "Angry, but not daring to speak out; obliged to remain silent about one’s resentment"
+    },
+    {
+        "chinese": "怒发冲冠",
+        "pingyin": "nù fà chōng guān",
+        "definition": "Literally hair stands up in anger and tips off one’s hat"
+    },
+    {
+        "chinese": "迁怒于人",
+        "pingyin": "qiān nù yú rén",
+        "definition": "To vent one’s anger on an innocent party"
+    },
+    {
+        "chinese": "强忍悲痛",
+        "pingyin": "qiáng rěn bēi tòng",
+        "definition": "To try hard to suppress one’s grief"
+    },
+    {
+        "chinese": "悲不自胜",
+        "pingyin": "bēi bù zì shèng",
+        "definition": "Unable to control one’s grief; overwrought"
+    },
+    {
+        "chinese": "转悲为喜",
+        "pingyin": "zhuǎn bēi wéi xǐ",
+        "definition": "To turn grief into happiness"
+    },
+    {
+        "chinese": "骂不绝口",
+        "pingyin": "mà bù jué kǒu",
+        "definition": "To scold without end; incessant abuse"
+    },
+    {
+        "chinese": "挨打受骂",
+        "pingyin": "ái dǎ shòu mà",
+        "definition": "To suffer beatings and receive abuse"
+    },
+    {
+        "chinese": "因爱成恨",
+        "pingyin": "yīn ài chéng hèn",
+        "definition": "Hatred caused by love"
+    },
+    {
+        "chinese": "爱不忍释",
+        "pingyin": "ài bù rěn shì",
+        "definition": "To love something too much to part with it"
+    },
+    {
+        "chinese": "男欢女爱",
+        "pingyin": "nán huān nǚ ài",
+        "definition": "Passionate love"
+    },
+    {
+        "chinese": "舐犊之爱",
+        "pingyin": "shì dú zhī ài",
+        "definition": "The love of a cow licking her calf"
+    },
+    {
+        "chinese": "萝卜白菜，各有所爱",
+        "pingyin": "luó bo bái cài , gè yǒu suǒ ài",
+        "definition": "One man’s meat is another man’s poison"
+    }
+]
